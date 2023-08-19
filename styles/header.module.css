@@ -1,0 +1,10 @@
+.headerContainer {
+    padding: 3rem 10%;
+    backdrop-filter: blur(8px);
+    box-shadow: 0 1px 5px var(--gris-hide);
+}
+.navigation {
+    display: flex;
+    gap: 2rem;
+    width: 100%;
+}
